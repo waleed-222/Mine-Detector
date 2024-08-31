@@ -1,0 +1,15 @@
+HAL/DC_MOTOR/DC_MOTOR_prg.o HAL/DC_MOTOR/DC_MOTOR_prg.o:  \
+ ../HAL/DC_MOTOR/DC_MOTOR_prg.c ../HAL/DC_MOTOR/../../LIB/STD_TYPES.h \
+  ../HAL/DC_MOTOR/../../LIB/BIT_MATH.h \
+  ../HAL/DC_MOTOR/../../MCAL/DIO/DIO_int.h ../HAL/DC_MOTOR/DC_MOTOR_cfg.h \
+  ../HAL/DC_MOTOR/DC_MOTOR_int.h
+
+../HAL/DC_MOTOR/../../LIB/STD_TYPES.h:
+
+../HAL/DC_MOTOR/../../LIB/BIT_MATH.h:
+
+../HAL/DC_MOTOR/../../MCAL/DIO/DIO_int.h:
+
+../HAL/DC_MOTOR/DC_MOTOR_cfg.h:
+
+../HAL/DC_MOTOR/DC_MOTOR_int.h:
